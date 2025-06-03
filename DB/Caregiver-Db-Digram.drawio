@@ -1,6 +1,14 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.5 Chrome/134.0.6998.205 Electron/35.3.0 Safari/537.36" version="27.0.5">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
+<<<<<<< HEAD
     <mxGraphModel dx="2914" dy="2194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+=======
+<<<<<<< HEAD:DB/Caregiver-Db-Digram.drawio
+    <mxGraphModel dx="2914" dy="2194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+=======
+    <mxGraphModel dx="3827" dy="2889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+>>>>>>> 393d68c6dd1914006e556ddb4bb3669abefa54d8:Caregiver-Db-Digram.drawio
+>>>>>>> 279e08bee472a99bf39f00b615247e862966e551
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -903,8 +911,18 @@
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+<<<<<<< HEAD
         <mxCell id="CWu1YBKGoo46e3zlQE5y-108" value="Time_Availability" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
           <mxGeometry x="425" y="-720" width="250" height="160" as="geometry" />
+=======
+<<<<<<< HEAD:DB/Caregiver-Db-Digram.drawio
+        <mxCell id="CWu1YBKGoo46e3zlQE5y-108" value="Time_Availability" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
+          <mxGeometry x="425" y="-720" width="250" height="160" as="geometry" />
+=======
+        <mxCell id="CWu1YBKGoo46e3zlQE5y-108" value="Availability" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
+          <mxGeometry x="455" y="-380" width="250" height="220" as="geometry" />
+>>>>>>> 393d68c6dd1914006e556ddb4bb3669abefa54d8:Caregiver-Db-Digram.drawio
+>>>>>>> 279e08bee472a99bf39f00b615247e862966e551
         </mxCell>
         <mxCell id="CWu1YBKGoo46e3zlQE5y-109" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="CWu1YBKGoo46e3zlQE5y-108" vertex="1">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -953,11 +971,48 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+<<<<<<< HEAD
         <mxCell id="CWu1YBKGoo46e3zlQE5y-120" value="hour int NOT NULL" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="CWu1YBKGoo46e3zlQE5y-118" vertex="1">
+=======
+<<<<<<< HEAD:DB/Caregiver-Db-Digram.drawio
+        <mxCell id="CWu1YBKGoo46e3zlQE5y-120" value="hour int NOT NULL" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="CWu1YBKGoo46e3zlQE5y-118" vertex="1">
+=======
+        <mxCell id="CWu1YBKGoo46e3zlQE5y-120" value="start_time time NOT NULL" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="CWu1YBKGoo46e3zlQE5y-118" vertex="1">
+>>>>>>> 393d68c6dd1914006e556ddb4bb3669abefa54d8:Caregiver-Db-Digram.drawio
           <mxGeometry x="30" width="220" height="30" as="geometry">
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+<<<<<<< HEAD:DB/Caregiver-Db-Digram.drawio
+=======
+        <mxCell id="CWu1YBKGoo46e3zlQE5y-127" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="CWu1YBKGoo46e3zlQE5y-108" vertex="1">
+          <mxGeometry y="150" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CWu1YBKGoo46e3zlQE5y-128" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="CWu1YBKGoo46e3zlQE5y-127" vertex="1">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CWu1YBKGoo46e3zlQE5y-129" value="end_time time NOT NULL" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="CWu1YBKGoo46e3zlQE5y-127" vertex="1">
+          <mxGeometry x="30" width="220" height="30" as="geometry">
+            <mxRectangle width="220" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CWu1YBKGoo46e3zlQE5y-133" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="CWu1YBKGoo46e3zlQE5y-108" vertex="1">
+          <mxGeometry y="180" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CWu1YBKGoo46e3zlQE5y-134" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="CWu1YBKGoo46e3zlQE5y-133" vertex="1">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CWu1YBKGoo46e3zlQE5y-135" value="created-at timestamp NOT NULL" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="CWu1YBKGoo46e3zlQE5y-133" vertex="1">
+>>>>>>> 279e08bee472a99bf39f00b615247e862966e551
+          <mxGeometry x="30" width="220" height="30" as="geometry">
+            <mxRectangle width="220" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+>>>>>>> 393d68c6dd1914006e556ddb4bb3669abefa54d8:Caregiver-Db-Digram.drawio
         <mxCell id="CWu1YBKGoo46e3zlQE5y-136" value="Allergie" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
           <mxGeometry x="1260" y="-10" width="250" height="220" as="geometry" />
         </mxCell>
@@ -1336,6 +1391,10 @@
             <mxPoint x="230" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD:DB/Caregiver-Db-Digram.drawio
+>>>>>>> 279e08bee472a99bf39f00b615247e862966e551
         <mxCell id="znHpfb7Uetpx-UtR8g94-1" value="Time_Service" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
           <mxGeometry x="425" y="-530" width="250" height="160" as="geometry" />
         </mxCell>
@@ -1345,6 +1404,8 @@
         <mxCell id="znHpfb7Uetpx-UtR8g94-3" value="PK" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;" vertex="1" parent="znHpfb7Uetpx-UtR8g94-2">
           <mxGeometry width="30" height="30" as="geometry">
             <mxRectangle width="30" height="30" as="alternateBounds" />
+<<<<<<< HEAD
+=======
           </mxGeometry>
         </mxCell>
         <mxCell id="znHpfb7Uetpx-UtR8g94-4" value="id varchar NOT NULL " style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" vertex="1" parent="znHpfb7Uetpx-UtR8g94-2">
@@ -1369,38 +1430,15 @@
           <mxGeometry y="90" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="znHpfb7Uetpx-UtR8g94-9" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="znHpfb7Uetpx-UtR8g94-8">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="znHpfb7Uetpx-UtR8g94-10" value="day_week smallint NOT NULL" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="znHpfb7Uetpx-UtR8g94-8">
-          <mxGeometry x="30" width="220" height="30" as="geometry">
-            <mxRectangle width="220" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="znHpfb7Uetpx-UtR8g94-11" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="znHpfb7Uetpx-UtR8g94-1">
-          <mxGeometry y="120" width="250" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="znHpfb7Uetpx-UtR8g94-12" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="znHpfb7Uetpx-UtR8g94-11">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="znHpfb7Uetpx-UtR8g94-13" value="hour int NOT NULL" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="znHpfb7Uetpx-UtR8g94-11">
-          <mxGeometry x="30" width="220" height="30" as="geometry">
-            <mxRectangle width="220" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="znHpfb7Uetpx-UtR8g94-14" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;rounded=0;" edge="1" parent="1" source="CWu1YBKGoo46e3zlQE5y-303" target="znHpfb7Uetpx-UtR8g94-5">
+=======
+        <mxCell id="u23QlFoM1YjNMrl8pQg4-2" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="CWu1YBKGoo46e3zlQE5y-306" target="CWu1YBKGoo46e3zlQE5y-112" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="40" y="-135" as="sourcePoint" />
-            <mxPoint x="220" y="-510" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="znHpfb7Uetpx-UtR8g94-15" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;rounded=0;" edge="1" parent="1" source="CWu1YBKGoo46e3zlQE5y-303" target="CWu1YBKGoo46e3zlQE5y-112">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="290" y="-135" as="sourcePoint" />
-            <mxPoint x="360" y="-445" as="targetPoint" />
+            <mxPoint x="370" y="-60" as="sourcePoint" />
+            <mxPoint x="490" y="-101" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-90" y="-139" />
+            </Array>
+>>>>>>> 279e08bee472a99bf39f00b615247e862966e551
           </mxGeometry>
         </mxCell>
       </root>
